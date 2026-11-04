@@ -3,6 +3,10 @@
   "description": "透明PNG头像",
   "icons": [
     {
+      "name": "cola",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/cola.png"
+    },
+    {
       "name": "dog",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/dog.png"
     }
