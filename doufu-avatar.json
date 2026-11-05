@@ -3,6 +3,10 @@
   "description": "透明PNG头像",
   "icons": [
     {
+      "name": "bzxg",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/bzxg.png"
+    },
+    {
       "name": "cola",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/cola.png"
     },
@@ -25,6 +29,10 @@
     {
       "name": "sntp",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/sntp.png"
+    },
+    {
+      "name": "西瓜",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/西瓜.png"
     }
   ]
 }
