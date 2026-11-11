@@ -3,12 +3,40 @@
   "description": "透明PNG头像",
   "icons": [
     {
+      "name": "开怀大笑",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/big-grin.png"
+    },
+    {
+      "name": "红衣",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/blossom.png"
+    },
+    {
+      "name": "蓝衣出拳",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/bubbles-punch.png"
+    },
+    {
+      "name": "蓝衣泡泡",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/bubbles-sit.png"
+    },
+    {
+      "name": "绿衣",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/buttercup.png"
+    },
+    {
       "name": "bzxg",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/bzxg.png"
     },
     {
       "name": "猫头少女",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/catgirl.png"
+    },
+    {
+      "name": "托腮少女",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/cheeks.png"
+    },
+    {
+      "name": "闭眼微笑",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/closed-smile.png"
     },
     {
       "name": "cola",
@@ -39,6 +67,10 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/greeneyes.png"
     },
     {
+      "name": "爱心眼",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/heart-eyes.png"
+    },
+    {
       "name": "L",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/l.png"
     },
@@ -59,12 +91,20 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/redhair.png"
     },
     {
+      "name": "银发遮脸",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/silver-cover.png"
+    },
+    {
       "name": "sntp",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/sntp.png"
     },
     {
       "name": "便利店少女",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/store.png"
+    },
+    {
+      "name": "夕阳微笑",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/sunset-smile.png"
     },
     {
       "name": "西瓜",
