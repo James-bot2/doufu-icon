@@ -3,23 +3,23 @@
   "description": "透明PNG头像",
   "icons": [
     {
-      "name": "开怀大笑",
+      "name": "big-grin",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/big-grin.png"
     },
     {
-      "name": "红衣",
+      "name": "blossom",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/blossom.png"
     },
     {
-      "name": "蓝衣出拳",
+      "name": "bubbles-punch",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/bubbles-punch.png"
     },
     {
-      "name": "蓝衣泡泡",
+      "name": "bubbles-sit",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/bubbles-sit.png"
     },
     {
-      "name": "绿衣",
+      "name": "buttercup",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/buttercup.png"
     },
     {
@@ -27,23 +27,47 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/bzxg.png"
     },
     {
-      "name": "猫头少女",
+      "name": "catgirl",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/catgirl.png"
     },
     {
-      "name": "托腮少女",
+      "name": "cheeks",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/cheeks.png"
     },
     {
-      "name": "闭眼微笑",
+      "name": "closed-smile",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/closed-smile.png"
+    },
+    {
+      "name": "col-drama",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/col-drama.png"
+    },
+    {
+      "name": "col-duanju",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/col-duanju.png"
+    },
+    {
+      "name": "col-iptv",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/col-iptv.png"
+    },
+    {
+      "name": "col-live",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/col-live.png"
+    },
+    {
+      "name": "col-music",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/col-music.png"
+    },
+    {
+      "name": "col-sese",
+      "url": "https://icon.nayminkhantshein.dpdns.org/icons/col-sese.png"
     },
     {
       "name": "cola",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/cola.png"
     },
     {
-      "name": "电次",
+      "name": "denji",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/denji.png"
     },
     {
@@ -55,23 +79,23 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/echoflix.png"
     },
     {
-      "name": "取景少女",
+      "name": "framing",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/framing.png"
     },
     {
-      "name": "五条悟",
+      "name": "gojo",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/gojo.png"
     },
     {
-      "name": "绿瞳少女",
+      "name": "greeneyes",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/greeneyes.png"
     },
     {
-      "name": "爱心眼",
+      "name": "heart-eyes",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/heart-eyes.png"
     },
     {
-      "name": "L",
+      "name": "l",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/l.png"
     },
     {
@@ -79,7 +103,7 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/ok.png"
     },
     {
-      "name": "紫马尾",
+      "name": "ponytail",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/ponytail.png"
     },
     {
@@ -87,11 +111,11 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/rabbit.png"
     },
     {
-      "name": "红发剪刀手",
+      "name": "redhair",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/redhair.png"
     },
     {
-      "name": "银发遮脸",
+      "name": "silver-cover",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/silver-cover.png"
     },
     {
@@ -99,15 +123,15 @@
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/sntp.png"
     },
     {
-      "name": "便利店少女",
+      "name": "store",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/store.png"
     },
     {
-      "name": "夕阳微笑",
+      "name": "sunset-smile",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/sunset-smile.png"
     },
     {
-      "name": "西瓜",
+      "name": "xigua",
       "url": "https://icon.nayminkhantshein.dpdns.org/icons/xigua.png"
     }
   ]
